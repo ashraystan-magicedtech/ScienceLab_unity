@@ -47,7 +47,7 @@ The Science Lab Simulator provides an immersive virtual laboratory environment w
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ScienceLab_unity.git
+   git clone https://github.com/ashraystan-magicedtech/ScienceLab_unity.git
    cd ScienceLab_unity
    ```
 
